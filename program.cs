@@ -1,5 +1,8 @@
 class DistanceConverter
 {
+    const int MilesInFeet = 5280;
+    const double MilesInMeters = 1609.34;
+    const string wspace = " "; //whitespace
 
     static void AuthorName()
     {
